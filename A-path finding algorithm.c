@@ -1,3 +1,4 @@
+//SIMPLICITY RULES
 #include <stdio.h>
 #include <string.h>
 #include<math.h>
@@ -32,7 +33,7 @@ void banner ()
   };//this has BANNER of our program
   printf ("%s", a);
   reset();cyan();
-  printf (" \n\t\t\t<by ARAVIND,ANURAG,DEEPAK,ARJUN>\n");reset();
+ reset();
 }
 void print(int space[][s])
 {int i,j;
